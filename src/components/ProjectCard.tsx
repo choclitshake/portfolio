@@ -34,7 +34,7 @@ export default function ProjectCard({ project }: Props) {
             className="font-mono text-sm leading-relaxed"
             style={{ color: "#2B2D42" }}
           >
-            {project.description}
+            {project.longDescription}
           </p>
         </div>
 

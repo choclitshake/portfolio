@@ -50,7 +50,7 @@ export default function HeroSection() {
             className="font-mono text-base"
             style={{ color: "#8D99AE" }}
           >
-            BS in Computer Science | Student
+            BS in Computer Science | Student<br></br>Cebu Institute of Technology - University
           </p>
 
           {/* CTA row */}

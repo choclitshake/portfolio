@@ -23,7 +23,7 @@ export const projects: Project[] = [
     emoji: "🌾",
     description: "Harvest pricing & verification assistant for rural Filipino farmers.",
     longDescription:
-      "An offline-first Progressive Web App that empowers smallholder farmers with crop grading, fair price benchmarks, and direct buyer connection — even with no network coverage. Top 15 at Innovation Cup Cebu 2026 (AWS Cloud Clubs Philippines).",
+      "An offline-first Progressive Web App (PWA) that empowers smallholder farmers with crop grading, fair price benchmarks, and direct buyer connection — even with no network coverage. Top 15 at Innovation Cup Cebu 2026 (AWS Cloud Clubs Philippines).",
     techStack: [
       { name: "Next.js", icon: "nextjs" },
       { name: "React", icon: "react" },
@@ -50,7 +50,7 @@ export const projects: Project[] = [
     emoji: "🎮",
     description: "Cooperative 2D platformer. Two characters, one rope, full chaos.",
     longDescription:
-      "Inspired by Bread & Fred, Joe and Marie are tethered together and must navigate levels as a team. Built with MVVM architecture, multithreaded database ops via HikariCP, and multiple design patterns. Contributed a bug fix back to the FXGL open-source library.",
+      "Inspired by Bread & Fred, Joe and Marie are tethered together and must navigate levels as a duo. Built with MVVM architecture, multithreaded database ops via HikariCP, and multiple design patterns. Contributed a bug fix back to the FXGL open-source library.",
     techStack: [
       { name: "Java", icon: "java" },
       { name: "JavaFX", icon: "javafx" },
@@ -94,7 +94,7 @@ export const projects: Project[] = [
     emoji: "🦁",
     description: "One-button shapeshifting infinite side-scroller. Built for a game jam.",
     longDescription:
-      "Play as Jubang, a shapeshifter who just wants to eat. Swap between Mole, Eagle, Fish, and Pig forms on the fly to collect different food across a never-ending level. No HUD, no menus, just chaos. Built with a team in a weekend.",
+      "A mobile ordering app prototype designed for CIT-U’s canteen, featuring an AI chatbot that recommends food choices and combos tailored to users’ dietary needs and budgets. Integrates human-computer interaction principles and foundational technopreneurship concepts to create a user-centered and market-aware solution.",
     techStack: [
       { name: "Figma", icon: "figma" },
     ],
@@ -129,7 +129,7 @@ export const projects: Project[] = [
     emoji: "🦅",
     description: "One-button shapeshifting infinite side-scroller. Built for a game jam.",
     longDescription:
-      "Play as Jubang, a shapeshifter who just wants to eat. Swap between Mole, Eagle, Fish, and Pig forms on the fly to collect different food across a never-ending level. No HUD, no menus, just chaos. Built with a team in a weekend.",
+      "Play as Jubang, a shapeshifter who just wants to eat. Swap between Mole, Eagle, Fish, and Pig forms on the fly to collect different food across a never-ending level. No HUD, no menus, just chaos. Built with a team in a weekend for Global Game Jam 2026.",
     techStack: [
       { name: "Godot", icon: "godot" },
       { name: "GDScript", icon: "gdscript" },
