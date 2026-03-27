@@ -38,6 +38,7 @@ export const projects: Project[] = [
       "/projects/presyoani/2.png",
       "/projects/presyoani/3.png",
       "/projects/presyoani/4.png",
+      "/projects/presyoani/5.png",
     ],
     link: "#",
     githubLink: "https://github.com/moisturiizer/presyoani",
@@ -61,6 +62,7 @@ export const projects: Project[] = [
       "/projects/joe-and-marie/1.png",
       "/projects/joe-and-marie/2.png",
       "/projects/joe-and-marie/3.png",
+      "/projects/joe-and-marie/4.png",
     ],
     link: "#",
     featured: true,
@@ -82,7 +84,6 @@ export const projects: Project[] = [
     images: [
       "/projects/sleepsync/1.png",
       "/projects/sleepsync/2.png",
-      "/projects/sleepsync/3.png",
     ],
     link: "#",
     featured: true,
@@ -100,6 +101,7 @@ export const projects: Project[] = [
     images: [
       "/projects/wildeats/1.png",
       "/projects/wildeats/2.png",
+      "/projects/wildeats/3.png",
     ],
     link: "#",
   },
@@ -136,6 +138,9 @@ export const projects: Project[] = [
     images: [
       "/projects/jubango/1.png",
       "/projects/jubango/2.png",
+      "/projects/jubango/3.png",
+      "/projects/jubango/4.png",
+      "/projects/jubango/5.png",
     ],
     link: "#",
   },

@@ -90,7 +90,6 @@ export default function HeroSection() {
           className="absolute right-0 bottom-0 hidden md:block"
           style={{ width: "clamp(260px, 30vw, 380px)", height: "clamp(320px, 38vw, 460px)" }}
         >
-          {/* Replace with your actual photo at /public/rainne.png */}
           <Image
             src="/rainne.png"
             alt="Mary Avriel Rainne Borromeo"

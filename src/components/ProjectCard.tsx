@@ -45,7 +45,7 @@ export default function ProjectCard({ project }: Props) {
           ))}
         </div>
 
-        {/* View button */}
+        {/* View button
         <div className="flex justify-end mt-auto pt-1">
           <Link
             href={project.link}
@@ -64,7 +64,7 @@ export default function ProjectCard({ project }: Props) {
               →
             </span>
           </Link>
-        </div>
+        </div> */}
       </div>
     </div>
   );
